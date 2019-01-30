@@ -8,7 +8,7 @@ npm install bootstrap-navbar-mobile
 ```
 
 ### Usage
-The "**bootstrap-navbar-mobile**" comes in handy when you need to get a mobile menu navigation that slides in and out for a mobile user. It is practically the cheapest way of doing this.
+The "**bootstrap-navbar-mobile**" library comes in handy when you need to get a mobile menu navigation that slides in and out for a mobile user. It is practically the cheapest way of doing this.
 
 ### Requirements
 jQuery.js
