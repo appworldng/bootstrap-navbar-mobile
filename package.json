@@ -2,7 +2,6 @@
   "name": "bootstrap-navbar-mobile",
   "version": "1.0.0",
   "description": "A simple CSS & Javascript library to help you style your default bootstrap navigation bar into a conventional mobile navigation that slides in and out.",
-  "main": "bootstrap-navbar-mobile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
