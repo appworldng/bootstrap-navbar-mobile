@@ -1,0 +1,37 @@
+{
+  "name": "bootstrap-navbar-mobile",
+  "version": "1.0.0",
+  "description": "A simple CSS & Javascript library to help you style your default bootstrap navigation bar into a conventional mobile navigation that slides in and out.",
+  "main": "bootstrap-navbar-mobile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chigozieorunta/bootstrap-navbar-mobile.git"
+  },
+  "keywords": [
+    "chigozieorunta",
+    "npm",
+    "package",
+    "bootstrap-navbar-mobile",
+    "bootstrap",
+    "navbar",
+    "mobile",
+    "navbar-mobile",
+    "chigozie",
+    "orunta"
+  ],
+  "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/bootstrap-spacer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chigozieorunta/bootstrap-navbar-mobile/issues"
+  },
+  "homepage": "https://github.com/chigozieorunta/bootstrap-navbar-mobile#readme",
+  "files": [
+    "bootstrap-navbar-moobile.css",
+    "bootstrap-navabar-mobile.min.css",
+    "bootstrap-navbar-moobile.js",
+    "bootstrap-navabar-mobile.min.js"
+  ]
+}
