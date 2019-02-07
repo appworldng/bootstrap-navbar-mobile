@@ -11,34 +11,34 @@ npm install bootstrap-navbar-mobile
 The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
 <ul>
   <li>
-    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.css">
-      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.css
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.css">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.js">
-      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.js
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.js">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.js
     </a>
   </li>
   <li>
-    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.css">
-      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.css
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.min.css">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.min.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.js">
-      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.js
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.min.js">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/bootstrap-navbar-mobile/bootstrap-navbar-mobile.min.js
     </a>
   </li>
 </ul> 
 
 ### Usage
-The "**bootstrap-navbar-mobile**" library comes in handy when you need to get a mobile menu navigation that slides in and out for a mobile user. It is practically the cheapest way of doing this.
+The "**bootstrap-navbar-mobile**" library comes in handy when you need to style a default bootstrap menu navigation into mobile menu that slides in and out for a mobile user. It is practically the cheapest way of doing this.
 
 ### Requirements
 jQuery.js, BootStrap
 
-#### Mobile Navigation
+#### Example - Mobile Navigation
 The **navbar-mobile.css & navbar-mobile.js** once added to your project can be used in the following way:
 ```
 <!DOCTYPE html>
