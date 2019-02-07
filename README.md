@@ -63,7 +63,7 @@ The **navbar-mobile.css & navbar-mobile.js** once added to your project can be u
                 <a class="navbar-brand" href="#">Bootstrap Navbar Mobile</a>
             </div>
             <!--<div id="navbar" class="navbar-collapse collapse">-->
-                <ul class="nav navbar-nav navbar-right">
+                <ul class="nav navbar-nav navbar-right navbar-mobile">
                     <li><a href="../anchor1/">Anchor 1</a></li>
                     <li><a href="../anchor2/">Anchor 2</a></li>
                     <li><a href="../anchor3/">Anchor 3</a></li>
