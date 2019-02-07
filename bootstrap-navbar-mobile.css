@@ -14,14 +14,14 @@
     margin: 0 !important;
     border: none !important;
     transition: all 0.3s;
-	padding: 0 !important;
+    padding: 0 !important;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
 }
 
 .navbar-mobile > li > a {
     padding: 0 !important;
-	border: none !important;
-	border-bottom: 1px dashed #fff !important;
+    border: none !important;
+    border-bottom: 1px dashed #fff !important;
 }
 
 @media only screen and (min-width: 768px) {
@@ -34,11 +34,11 @@
         width: initial !important; height: initial !important;
         margin: initial !important;
         transition: all 0.3s;
-		box-shadow: none !important;
+	box-shadow: none !important;
     }
     
     .navbar-mobile > li > a {
         padding: 30px !important;
-		border: none !important;
+	border: none !important;
     }
 }
